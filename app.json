@@ -12,13 +12,13 @@
     ],
     "env": {
         "API_ID": {
-            "description": "Telegram APP ID"
+            "description": "27309858"
         },
         "API_HASH": {
-            "description": "Telegram APP hash"
+            "description": "db2420265b9b2e6602f487fa3f102ba6"
         },
         "SESSION_STRING": {
-            "description": "Telegram session string value"
+            "description": "BQFxJpUAdub0TvMEDTU-OhbYdBJ_3FgdBTSwiK17u6BKBDE9Sqs7zFAMzULRDKGWQt3LIWvPPL8DP-2m_Zd_PDt3sgE3YDUNobPf61-X99v8jm32BT64HPyqveJWgOPL9oRtM-QGDkZRlKP9mBB2NOQWNPa4SvzGPrCzSUVPdrCQvxgQmN0mTv0E7sXE3Q3hctPlgotAHK45r8LXK2_ki5AE8gYndNbcEsyJN_SrhEo2Gg42kDvFQ17VDXTPOa_YjiUlBx4fzmV_qonK5oz-u1o3f99uxdLtsZPrpm8tOZIlJfvIdsuyfSblcvBiTepJX_BSH7Q66Z2rGvGktRCngkYHuMr1JgAAAAGczii3AA"
         },
         "CHAT_MAPPING": {
             "description": "Mapping between source and target channels (with their IDs (-100...)). Example: [-100source1,-100source2:-100target];[-100source3:-100target2];"
@@ -42,12 +42,12 @@
         },
         "DISABLE_DELETE": {
             "description": "Disable mirror message deleting (true or false). Defaults to false",
-            "value": "false",
+            "value": "true",
             "required": false
         },
         "DISABLE_EDIT": {
             "description": "Disable mirror message editing (true or false). Defaults to false",
-            "value": "false",
+            "value": "true3",
             "required": false
         },
         "USE_MEMORY_DB": {
